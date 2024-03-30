@@ -1,0 +1,16 @@
+1,Dune,Frank Herbert,694
+2,La Fundación,Isaac Asimov,244
+3,Neuromante,William Gibson,271
+4,Guía del autoestopista galáctico,Douglas Adams,193
+5,¿Sueñan los androides con ovejas eléctricas?,Philip K. Dick,256
+6,Neuromante,Neal Stephenson,470
+7,Un mundo feliz,Aldous Huxley,288
+8,La guerra de los mundos,H.G. Wells,192
+9,Hyperion,Dan Simmons,482
+10,El marciano,Andy Weir,369
+11,Leviatán despierta,James S.A. Corey,561
+12,La mano izquierda de la oscuridad,Ursula K. Le Guin,304
+13,Carbono alterado,Richard K. Morgan,526
+14,La guerra interminable,Joe Haldeman,278
+15,Marte rojo,Kim Stanley Robinson,572
+16,El problema de los tres cuerpos,Liu Cixin,400
